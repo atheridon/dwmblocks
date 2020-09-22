@@ -4,7 +4,7 @@ static const Block blocks[] = {
 	/*Icon*/	/*Command*/						/*Update Interval*/	/*Update Signal*/
 	{"", 		"~/owncloud/Linux/dwmblocks/scripts/weather.sh",	3600,			0},
 	{"", 		"~/owncloud/Linux/dwmblocks/scripts/vpn.sh",		5,			0},
-	{"", 		"~/owncloud/Linux/dwmblocks/scripts/network.sh",	5,			0},
+	//{"", 		"~/owncloud/Linux/dwmblocks/scripts/network.sh",	5,			0},
 	{"", 		"~/owncloud/Linux/dwmblocks/scripts/audio.sh",		0,			1},
 	{"", 		"~/owncloud/Linux/dwmblocks/scripts/xbacklight.sh",	0,			2},
 	{"", 		"~/owncloud/Linux/dwmblocks/scripts/battery.sh",	5,			0},
