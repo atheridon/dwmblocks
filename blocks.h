@@ -3,6 +3,7 @@
 static const Block blocks[] = {
 	/*Icon*/	/*Command*/						/*Update Interval*/	/*Update Signal*/
 	{"", 		"~/owncloud/Linux/dwmblocks/scripts/weather.sh",	3600,			0},
+	{"", 		"~/owncloud/Linux/dwmblocks/scripts/gpu.sh",		5,			0},
 	{"", 		"~/owncloud/Linux/dwmblocks/scripts/cpu.sh",		5,			0},
 	{"", 		"~/owncloud/Linux/dwmblocks/scripts/memory.sh",		5,			0},
 	//{"", 		"~/owncloud/Linux/dwmblocks/scripts/vpn.sh",		5,			0},
