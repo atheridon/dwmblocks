@@ -1,5 +1,7 @@
 #!/bin/sh
 
+sleep 10
+
 weather=$(curl -s wttr.in/?format=%t)
 icon=""
 
