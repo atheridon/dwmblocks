@@ -1,4 +1,4 @@
-# Atheridon's fork of dwmblocks
+# Fork of dwmblocks
 
 ## Configuration
 
